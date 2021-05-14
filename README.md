@@ -31,7 +31,7 @@ hoping to share this with you as well!
 ### :memo: Sharing knowledge
 Please, since the reasons why I created this repository are to get better at coding but to also share some if it, don't be shy to:  
 
-  - Remark, comment, ask questions
+  - Remark, comment, ask questions (Each repository has its own discussion)
   - Fork any repository you want and use it for your own projects
   - Message me anytime via my LinkedIn! 
   
