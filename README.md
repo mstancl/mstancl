@@ -3,7 +3,7 @@
 ### :wave: Introduction 
 
 My name is Martin Stancl and I currently work as QA test automation framework developer  
-I am trying to improve my coding style and knowledge and also would love to share some of it during the process  
+I am trying to improve my coding style, knowledge and would also love to share some of it during the process  
 Therefore I decided to create this repository!
 
 ### :computer: What you'll see here 
@@ -25,12 +25,12 @@ since its much easier to create my own demo test app rather then relying on some
 I also enjoy casual game development just to get a taste of something new. So far I've done Tetris and Asteroids,
 so you can see some of it in the reposotiries as well. For those, i use LibGDX library.
 
-Since I work for QA I do not only test the API's from the functional point of view but also do performance testing
-using JMeter. I will most likely want to explore this a bit more programatically to see if I can learn something new there
+Since I work for QA, I do not only test the API's from the functional point of view but also do performance testing
+using JMeter. I will most likely want to explore this a bit more programatically to see if I can learn something new there,  
 hoping to share this with you as well!
 
 ### :memo: Sharing knowledge
-Please, since the reasons why I created this repository are to get better at coding but to also share some if it, don't be shy to:  
+Please, since the reasons why I created this repository is not only to get better at coding but to also share some if it, don't be shy to:  
 
   - Remark, comment, ask questions (each repository has its own discussion)
   - Fork any repository you want and use it for your own projects
