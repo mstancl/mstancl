@@ -13,8 +13,9 @@ At the moment I specialize on Java, so all you'll see will be in Java for now.
 I would like to go through :  
 
   - BDD API testing frameworks - :construction: in progress :construction:
-  - Spring API testing frameworks - coming :eyes:
   - Web application front-end automation frameworks using Selenium - coming :eyes:
+  - Spring API testing frameworks - coming :eyes:
+  
 
 
 I will try to switch in between TestNG and JUnit for the test frameworks,  
