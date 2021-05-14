@@ -28,7 +28,7 @@ Since I work for QA I do not only test the API's from the functional point of vi
 using JMeter. I will most likely want to explore this a bit more programatically to see if I can learn something new there
 hoping to share this with you as well!
 
-### Sharing knowledge
+### :memo: Sharing knowledge
 Please, since the reasons why I created this repository are to get better at coding but to also share some if it, don't be shy to:  
 
   - Remark, comment, ask questions
@@ -37,5 +37,5 @@ Please, since the reasons why I created this repository are to get better at cod
   
 These are very important for me during the learning process, because we are not able to learn without seeing our own mistakes  
 
-### Links
+### :link: Links
 You can find me on my <a href="https://www.linkedin.com/in/martin-štancl-11b591108">linkedIn</a>
