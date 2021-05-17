@@ -12,8 +12,8 @@ Since development of test automation frameworks is my biggest passion, that's wh
 At the moment I specialize on Java, so all you'll see will be in Java for now.
 I would like to go through :  
 
-  - BDD API testing frameworks - :construction: in progress :construction:
-  - Web application front-end automation frameworks using Selenium - coming :eyes:
+  - BDD API testing frameworks - :heavy_check_mark: done :heavy_check_mark:
+  - Web application front-end automation frameworks using Selenium - :construction: in progress :construction:
   - Spring API testing frameworks - coming :eyes:
   
 
