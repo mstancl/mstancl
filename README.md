@@ -23,7 +23,7 @@ most likely using Maven for all the projects and Spring-boot for creating demo a
 since its much easier to create my own demo test app rather then relying on some public API   
 (which is usually restricted to some degree or can change frequently and I would like to avoid that)   
 I also enjoy casual game development just to get a taste of something new. So far I've done Tetris and Asteroids,
-so you can see some of it in the reposotiries as well. For those, i use LibGDX library.
+so you can see some of it in the repositories as well. For those, i use LibGDX library.
 
 Since I work for QA, I do not only test the API's from the functional point of view but also do performance testing
 using JMeter. I will most likely want to explore this a bit more programatically to see if I can learn something new there,  
