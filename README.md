@@ -13,7 +13,7 @@ At the moment I specialize on Java, so all you'll see will be in Java for now.
 I would like to go through :  
 
   - BDD API testing frameworks - :heavy_check_mark: done :heavy_check_mark:
-  - Web application front-end automation frameworks using Selenium - :construction: in progress :construction:
+  - Web application front-end automation frameworks using Selenium - :heavy_check_mark: done :heavy_check_mark:
   - Spring API testing frameworks - coming :eyes:
   
 
