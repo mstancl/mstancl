@@ -2,7 +2,7 @@
 
 ### :wave: Introduction 
 
-My name is Martin Stancl and I currently work as QA test automation framework developer  
+My name is Martin Stancl and I currently work as SDET
 I am trying to improve my coding style, knowledge and would also love to share some of it during the process  
 Therefore I decided to create this repository!
 
@@ -15,6 +15,7 @@ I would like to go through :
   - BDD API testing frameworks - :heavy_check_mark: done :heavy_check_mark:
   - Web application front-end automation frameworks using Selenium - :heavy_check_mark: done :heavy_check_mark:
   - Spring API testing frameworks - coming :eyes:
+  - Simple Web application with SPRING based API's for testing of all the above - coming :eyes:
   
 
 
