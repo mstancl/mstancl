@@ -2,7 +2,7 @@
 
 ### :wave: Introduction 
 
-My name is Martin Stancl and I currently work as SDET
+My name is Martin Stancl and I currently work as SDET.
 I am trying to improve my coding style, knowledge and would also love to share some of it during the process  
 Therefore I decided to create this repository!
 
